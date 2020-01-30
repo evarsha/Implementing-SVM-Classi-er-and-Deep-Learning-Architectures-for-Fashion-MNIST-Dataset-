@@ -19,4 +19,4 @@ and computative cost(time).
 For Deep Learning architectures I have implemented the traditional CNN using TensorFlow and Numpy
 libraries and ResNet50 Architecture using Keras in my second model.
 
-The results obtained, their computation time, trade-os and architectures have been described.
+The results obtained, their computation time, trade-offs and architectures have been described.
